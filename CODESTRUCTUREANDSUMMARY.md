@@ -1,6 +1,6 @@
 # SaaS Human Resource Management System (HRM) – Ongoing Development
 
-I am currently working on a SaaS-based Human Resource Management System (not yet live), where I have contributed to multiple core modules. Due to confidentiality, I am unable to share repository links or demo access, but I can provide insights into my contributions.
+I am currently working on a SaaS-based Human Resource Management System, where I have contributed to multiple core modules. Due to confidentiality, I am unable to share repository links , demo access(https://app.yosuite.net/signup), but I can provide insights into my contributions.
 
 ## Builder Package Development
 
@@ -180,6 +180,7 @@ RequestRecord::settingName('inbox.approval.leave')
 Besides these modules and packages I have contributed to other core modules as well.
 - Feedback Module
 - Inventory Module
+- Payroll Module (Regular, Offcycle [Bonus, Reimbursement, Salary etc ])
 
 
 Before joining my current role, I worked at **PRAN RFL Group**, one of the largest conglomerates in Bangladesh. My primary responsibility was developing and maintaining the Secondary Sales Automation System, which was the backbone of the company's business operations.
