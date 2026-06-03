@@ -3,6 +3,7 @@
 I am currently working on a SaaS-based Human Resource Management System and Project Management System, where I have contributed to multiple core modules. Due to confidentiality, I am unable to share repository links, demo access(https://app.yosuite.net/signup), but I can provide insights into my contributions.
 
 ## Directory Structure (Demo - Modular Monolith) 
+```
 my-project/
 ├─ app/
 │  ├─ Console/
@@ -34,6 +35,7 @@ my-project/
 ├─ routes/
 ├─ storage/
 └─ tests/
+```
 ## Builder Package Development
 
 One of my key responsibilities was developing a Builder Package that allows junior engineers to create and manage various components with minimal effort. This package significantly reduces development time by enabling engineers to define attributes with a few lines of code, and the system automatically generates the necessary fields, validation rules, and frontend components.
